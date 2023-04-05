@@ -1,0 +1,124 @@
+{
+    "squad": [
+      {
+        "id": 1,
+        "name": "Arsenal",
+        "image": "https://www.bms.co.in/wp-content/uploads/2014/12/Arsenal-Football-Club2.jpg",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "name": "Aston Villa",
+        "image": "https://w0.peakpx.com/wallpaper/711/73/HD-wallpaper-aston-villa-f-c-the-villa-soccer-aston-villa-fc-the-lions-emblem-villa-avfc-villans-club-sport-logo-football-aston-villa-aston-villa-football-club.jpg",
+        "votes": 1
+      },
+      {
+        "id": 3,
+        "name": "Bournemouth",
+        "image": "https://wallpapers.com/images/high/afc-bournemouth-logo-inside-stadium-n0l7l0g8q34g4ukh.webp",
+        "votes": 0
+      },
+      {
+        "id": 4,
+        "name": "Brentford",
+        "image": "https://w0.peakpx.com/wallpaper/277/867/HD-wallpaper-brentford-fc-glitter-logo-efl-championship-red-white-checkered-background-soccer-english-football-club-brentford-fc-logo-mosaic-art-football-fc-brentford.jpg",
+        "votes": 0
+      },
+      {
+        "id": 5,
+        "name": "Brighton",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 6,
+        "name": "Chelsea",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 7,
+        "name": "Crystal Palace",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 8,
+        "name": "Everton",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 9,
+        "name": "Fulham",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 10,
+        "name": "Leeds",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 11,
+        "name": "Leicester",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 12,
+        "name": "Liverpool",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 13,
+        "name": "Manchester City",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 14,
+        "name": "Manchester United",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 15,
+        "name": "Newcastle",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 16,
+        "name": "Nottingham Forest",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 17,
+        "name": "Southampton",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 18,
+        "name": "Tottenham",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 19,
+        "name": "West Ham",
+        "image": " ",
+        "votes": 0
+      },
+      {
+        "id": 20,
+        "name": "Wolves",
+        "image": "",
+        "votes": 0
+      }
+    ]
+  }
