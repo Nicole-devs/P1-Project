@@ -62,24 +62,15 @@ npm start
 
 👤 **Nicole-devs**
 
-- GitHub: [@ndayishimiyeeric](https://github.com/ndayishimiyeeric)
-- Twitter: [@odaltongain](https://twitter.com/odaltongain)
-- LinkedIn: [Ndayishimiye Eric](https://linkedin.com/in/nderic)
-
 ## Credits
 
-- The original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
-- Project from [Microverse](https://bit.ly/MicroverseTN) React-Redux module
+- Nicole-devs for the app creation work and burning the midnight oil to ensure timely completion and submission. 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
-- Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
+- Hats of to my TM:Mr. Solomon Kitonyi for reviewing and grading the project in addition to his help during the phase leading to the project.
 
