@@ -7,7 +7,6 @@
 
 _**Let's Hit The Road;**_
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Sports
 
