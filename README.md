@@ -10,7 +10,8 @@ _**Let's Hit The Road;**_
 **Clone** the project
 You can download or clone this project by running this command from your terminal:
 
-git clone https://github.com/ndayishimiyeeric/score This will create a directory in the name of the project folder.
+git clone https://github.com/ndayishimiyeeric/score
+This will create a directory in the name of the project folder.
 
 Once you have the project files and folders, open it with your text editor.
 
