@@ -83,6 +83,3 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
