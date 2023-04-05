@@ -13,25 +13,25 @@ _**Let's Hit The Road;**_
 
 This is Sports Web App
 
-> In this app, you can get Sports and their details.
+> In this app, you can get the various ENglish Premier League teams and their details.
 
 ## Features
 
-- Search of a specific sport.
-- Get details of on available sports.
+- Search of a specific team.
+- Get the team's history.
 
 ## Demo App
 
 See Sports [here](https://nderic-score.netlify.app/)
 
-## Video
+<!-- ## Video
 
 See Video [here](https://www.loom.com/share/0c8bd4fd4d5745e6837cd1706ac79a78)
-
+ -->
 ## Built With
 
-- React
-- Redux
+- Javscript
+- HTML
 - CSS3
 
 **Hit The Road!**
@@ -60,7 +60,7 @@ npm start
 
 ## Author
 
-👤 **Odaltoneric**
+👤 **Nicole-devs**
 
 - GitHub: [@ndayishimiyeeric](https://github.com/ndayishimiyeeric)
 - Twitter: [@odaltongain](https://twitter.com/odaltongain)
