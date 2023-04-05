@@ -72,5 +72,5 @@ Contributions, issues, and feature requests are welcome!
 
 ## Acknowledgments
 
-- Hats of to my TM:Mr. Solomon Kitonyi for reviewing and grading the project in addition to his help during the phase leading to the project.
+- Hats of to my TM;Mr. Solomon Kitonyi, for reviewing and grading the project in addition to his help during the phase leading to the project.
 
