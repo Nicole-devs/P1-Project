@@ -12,7 +12,7 @@ _**Let's Hit The Road;**_
 
 This is Sports Web App
 
-> In this app, you can get the various ENglish Premier League teams and their details.
+> In this app, you can get the various English Premier League teams and their details.
 
 ## Features
 
