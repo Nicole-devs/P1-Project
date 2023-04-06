@@ -127,8 +127,8 @@ form.addEventListener('submit', (e)=>{
         let left1 = document.createElement('div')
         let left2 = document.createElement('div')
 
-        left1.style = 'color: white; margin-bottom: 4%; width: 100%; height:56%; border: 1px solid white;background: none; border-radius:14px;'
-        left2.style = 'color: white; width: 100%; height:40%; border: 1px solid white;background: none; border-radius:14px;'
+        left1.style = 'color: white; margin-bottom: 4%; width: 100%; height:56%; border: 1px solid white;background: none; border-radius:15px;'
+        left2.style = 'color: white; width: 100%; height:40%; border: 1px solid white;background: none; border-radius:15px;'
 
         left.appendChild(left1)
         left.appendChild(left2)
@@ -188,7 +188,7 @@ form.addEventListener('submit', (e)=>{
             right3.textContent = 'MANAGER:Pep Guardiola'
         }
         if(input.value.toLowerCase() == teamNames[4]){
-            body.style = 'background:url("https://w0.peakpx.com/wallpaper/341/185/HD-wallpaper-tottenham-xs-max-aia-fifa-kane-london-nike-premier-leauge-spurs-tottenham-hotspur-white-heart-line-xs-max-iphone.jpg");background-size: cover; background-repeat: no-repeat;  display: block;'
+            body.style = 'background:url("https://mcdn.wallpapersafari.com/medium/42/88/KcrQAD.jpg");background-size: cover; background-repeat: no-repeat;  display: block;'
             
             left1.textContent = 'NAME: Tottenham Hotspur(TOT)'
             left2.textContent = 'ALTERNATIVES:Tottenham'
