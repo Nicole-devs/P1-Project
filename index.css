@@ -1,12 +1,17 @@
-/* alt {
+p { color: wheat;
+
     margin-left: auto;
     margin-right: auto;
-    width: 100%
+    width: 8em
+    
 }
 
-sport */
+form {
+    color: rgb(0, 0, 0);
+}
+/* sport */ */
 
-h4 { color: white;}
+h2 { color: wheat;}
 
 body {
     background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0DwNqhW48jfuK2Kr-dxPz8K0PvtECltK_xPMM8gLa5EFyD4UDa3l1AklXIeZH4AYur8o8nzjNz7PCQnHBO-KzJumr0B5lKclir3AsJfBpR_ugjbBR9bBuWFcNI6HxyJ7FGeWEr45MYtBEd8K8b0Gk2ddD03UeupUG2zSTIgE0mkaOWNIcpqrlFulV0Q/s16000/Banner_PremierLeagueVN_650x260.jpg");
@@ -14,3 +19,8 @@ body {
     background-attachment: fixed;  
     background-size: cover;
 }
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }

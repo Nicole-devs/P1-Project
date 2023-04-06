@@ -2,25 +2,31 @@ document.addEventListener("DOMContentLoaded",() =>{
     fetch("https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?l=English%20Premier%20League")
     .then (response => response.json())
     .then (data => {
+        let container = document.createElement('div')
+        document.querySelector("body").appendChild(container)
         data.teams.forEach(element => {
-            const name=document.createElement("h4")
+            const name=document.createElement("h2")
+            
             name.textContent=element.strTeam
-            document.querySelector("body").appendChild(name)
+            container.appendChild(name)
             name.addEventListener("click",()=>{
+                while(container.hasChildNodes() ==  true){
+                    container.removeChild(container.firstChild);
+                }
                 let div = document.createElement("div")
-                let alt = document.createElement("alt")
-                alt.textContent = element.strAlternate
-                div.appendChild(alt)
-                document.querySelector("body").appendChild(alt)
-                let short = document.createElement("short")
-                short.textContent = element.strTeamShort
-                div.appendChild(short)
-                document.querySelector("body").appendChild(short)
                 let p = document.createElement("p")
                 p.textContent = element.strKeywords
                 div.appendChild(p)
                 document.querySelector("body").appendChild(p)
-                let pitch = document.createElement("pitch")
+                let alt = document.createElement("h3")
+                alt.textContent = element.strAlternate
+                div.appendChild(alt)
+                document.querySelector("body").appendChild(alt)
+                let short = document.createElement("h4")
+                short.textContent = element.strTeamShort
+                div.appendChild(short)
+                document.querySelector("body").appendChild(short)
+                let pitch = document.createElement("h5")
                 pitch.textContent = element.strStadium
                 div.appendChild(pitch)
                 document.querySelector("body").appendChild(pitch)
