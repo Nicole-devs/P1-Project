@@ -15,11 +15,11 @@ document.addEventListener("DOMContentLoaded",() =>{
                 }
                 let div = document.createElement("div")
                 let p = document.createElement("p")
-                p.textContent = element.strKeywords
+                p.textContent = element.strAlternate
                 div.appendChild(p)
                 document.querySelector("body").appendChild(p)
                 let alt = document.createElement("h3")
-                alt.textContent = element.strAlternate
+                alt.textContent = element.strKeywords
                 div.appendChild(alt)
                 document.querySelector("body").appendChild(alt)
                 let short = document.createElement("h4")
@@ -30,6 +30,8 @@ document.addEventListener("DOMContentLoaded",() =>{
                 pitch.textContent = element.strStadium
                 div.appendChild(pitch)
                 document.querySelector("body").appendChild(pitch)
+                
+            
         
                 
 
@@ -61,7 +63,7 @@ document.addEventListener("DOMContentLoaded",() =>{
         let voteBtn = document.createElement('button')
 
         
-        image.src = pet.image
+        image.src = team.image
         votes.textContent = `Votes: ${team.votes}`
         voteBtn.textContent = 'like'
 
@@ -115,3 +117,9 @@ document.addEventListener("DOMContentLoaded",() =>{
             
             })
   
+    fetch("http://localhost:3000/squad/6")
+    .then (response => response.json())
+    .then (data => {
+        data.teams.backround
+    }
+    )
