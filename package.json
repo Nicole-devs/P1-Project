@@ -1,0 +1,19 @@
+{
+  "name": "p1-project",
+  "version": "1.0.0",
+  "description": "//The basic story of your application //The core features of your MVP //The API data you'll be using and how you'll use it //Challenges you expect to face //How you are meeting the requirements of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicole-devs/P1-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicole-devs/P1-Project/issues"
+  },
+  "homepage": "https://github.com/Nicole-devs/P1-Project#readme"
+}
