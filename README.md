@@ -21,24 +21,21 @@ This is a sports-based Web App
 
 ## Demo App
 
-See Sports [here](https://nderic-score.netlify.app/)
+See Sports [here](https://nicole-devs.github.io/P1-Project/)
 
-<!-- ## Video
-
-See Video [here](https://www.loom.com/share/0c8bd4fd4d5745e6837cd1706ac79a78)
- -->
 ## Built With
 
 - Javscript
 - HTML
 - CSS3
-
+- Db.json
+  (API:[here](https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?l=English%20Premier%20League)
 **Hit The Road!**
 ## Clone the project
 
 You can download or clone this project by running this command from your terminal:
 
-git clone https://github.com/ndayishimiyeeric/score
+git clone git@github.com:Nicole-devs/P1-Project.git
 This will create a directory in the name of the project folder.
 
 Once you have the project files and folders, open it with your text editor.
@@ -71,5 +68,5 @@ Contributions, issues, and feature requests are welcome!
 
 ## Acknowledgments
 
-- Hats of to my TM;Mr. Solomon Kitonyi, for reviewing and grading the project in addition to his help during the phase leading to the project.
+- Hats of to my TM; Mr. Solomon Kitonyi, for reviewing and grading the project in addition to his help during the phase leading to the project.
 
